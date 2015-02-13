@@ -1,2 +1,2 @@
 # mooienaam
-De beste repo die er is
+Een wel aardige repo
